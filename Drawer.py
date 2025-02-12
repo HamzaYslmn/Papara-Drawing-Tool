@@ -3,6 +3,8 @@ import pyautogui
 import keyboard
 from PIL import Image
 
+PATH = "image.png"
+
 pyautogui.PAUSE = 0.03
 
 def get_mouse_position(prompt):
@@ -27,7 +29,7 @@ print(f"Seçilen alan - Sol Üst: ({draw_x}, {draw_y}), Genişlik: {draw_width},
 
 # --- Load the Image and Fit It to the Drawing Area ---
 try:
-    image = Image.open("image.png").convert("RGB")
+    image = Image.open(PATH).convert("RGB")
 except Exception as e:
     print("Resim açılamadı:", e)
     exit(1)
