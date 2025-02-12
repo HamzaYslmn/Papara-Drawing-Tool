@@ -85,5 +85,5 @@ pip install -r requirements.txt
 
 ## Lisans
 
-Bu proje Affero Lisansı altında lisanslanmıştır.
+Bu proje [Affero Lisansı altında lisanslanmıştır.](https://github.com/HamzaYslmn/Papara-Drawing-Tool/tree/main?tab=AGPL-3.0-1-ov-file#readme)
 
