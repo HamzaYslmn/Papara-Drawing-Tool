@@ -51,8 +51,8 @@ pip install -r requirements.txt
 
 4. **Alan Seçimi:**  
    Betik çalışmaya başladığında ekranda talimatlar görünecektir. Aşağıdaki adımları izleyin:
-   - **SAĞ ÜST Nokta:** Çizim alanının sağ üst köşesini belirlemek için farenizi istenen noktaya getirin ve terminale fare oynatmadan geri dönüp `Enter` tuşuna basın.
-   - **SOL ALT Nokta:** Çizim alanının sol alt köşesini belirlemek için farenizi istenen noktaya getirin ve terminale fare oynatmadan geri dönüp `Enter` tuşuna basın.
+   - **SAĞ ÜST Nokta:** Çizim alanının sağ üst köşesini belirlemek için farenizi istenen noktaya getirin ve terminale fare oynatmadan alt+tab ile geri dönüp `Enter` tuşuna basın.
+   - **SOL ALT Nokta:** Çizim alanının sol alt köşesini belirlemek için farenizi istenen noktaya getirin ve terminale fare oynatmadan alt+tab il geri dönüp `Enter` tuşuna basın.
 
 5. **Çizimin Başlaması:**  
    Seçim işlemlerinden sonra betik, 5 saniyelik bir bekleme süresinden sonra otomatik olarak çizime başlayacaktır.
